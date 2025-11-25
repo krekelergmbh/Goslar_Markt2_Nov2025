@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-sphere186",
-      "name": "sphere(186)",
+      "name": "Außen",
       "levels": [
         {
           "tileSize": 256,
